@@ -1,7 +1,11 @@
 ---
 layout: default
-title : gallery
+title: gallery
+published: true
 ---
+
+###this is new from prose.io
+
 <div class="container">
 
 
@@ -17,4 +21,3 @@ title : gallery
   </div>
 	
 </div>
-
