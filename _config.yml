@@ -1,0 +1,15 @@
+name : "dance power 2014"
+description : ""
+
+url : "http://dancepower.org"
+
+paginate : 10
+
+
+markdown : redcarpet
+
+permalink : /blog/:categories/:title
+
+pygments : true
+
+blog_structure : "/blog/"
