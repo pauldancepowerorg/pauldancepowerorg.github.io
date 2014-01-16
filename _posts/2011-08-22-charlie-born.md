@@ -8,4 +8,4 @@ name : Paul
 
 ## why won't the site update?
 
-<h2>Y U no <span>update</span</h2>
+<h2>Y U no <span>update</span></h2>
