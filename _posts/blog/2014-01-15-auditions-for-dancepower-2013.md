@@ -1,10 +1,11 @@
 ---
-layout : blog
-title : "Auditions for Dance Power 2013"
-categories:
-- blog
-permalink : "/blog/auditions-for-dancepower-2013/"
-posted : "28 May 2013"
+layout: blog
+title: Auditions for Dance Power 2013
+categories: 
+  - blog
+permalink: "/blog/auditions-for-dancepower-2013/"
+posted: 28 May 2013
+published: false
 ---
 
 Join us on 8th June 2013 for auditions at The Hub Theatre, City College, Southampton, SO14 5GL, registration at 10am
