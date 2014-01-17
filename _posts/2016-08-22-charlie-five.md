@@ -1,4 +1,5 @@
 ---
-layout : default
+layout : blog
 ---
 6!
+jjjj
