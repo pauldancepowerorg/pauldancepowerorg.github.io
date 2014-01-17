@@ -1,5 +1,8 @@
 ---
-layout : blog
+layout: blog
+published: true
 ---
 
 ###This is a new blog entry, straight from Draft on the Note 2.
+
+## why can't I delete but I can write new stuff?
