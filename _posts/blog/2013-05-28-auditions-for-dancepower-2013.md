@@ -4,7 +4,7 @@ title: Auditions for Dance Power 2013
 categories: 
   - blog
 permalink: "/blog/auditions-for-dancepower-2013/"
-published: true
+published : true
 ---
 
 ![](/uploads/2012/04/A5-Audition-Mailer-HiRES-front1-722x1024.jpg)

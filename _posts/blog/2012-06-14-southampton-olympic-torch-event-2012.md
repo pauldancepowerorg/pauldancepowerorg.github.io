@@ -4,7 +4,7 @@ title: 2012 Southampton Olympic Torch Event
 categories: 
   - blog
 permalink: "/blog/2012-olympic-torch-event-southampton/"
-published: true
+published : true
 ---
 
 ![][]
