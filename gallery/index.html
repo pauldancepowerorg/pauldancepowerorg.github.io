@@ -1,5 +1,41 @@
 ---
 layout : default
+title : Dancepower 2013 Gallery
 ---
 
-{% include gallery.html %}
+<style>
+
+.gallery_holder{
+	clear:both;
+}
+
+.gallery_item{
+	float:left;
+}
+
+.list-gallery {
+display: block;
+margin: 0 0 0 -10px;
+}
+
+.list-gallery {
+list-style: none;
+clear:both;
+}
+
+.list-gallery li {
+width: 310px;
+float: left;
+margin: 0 0 22px 10px;
+}
+</style>
+			
+			
+{% include gallery.md theGallery = site.data.dancepower_2013 name = "Dance Power Show 2013" %}
+<!--
+{ include gallery.md theGallery = site.data.gallery name="Best of the Rest" %}
+{ include gallery.md theGallery = site.data.girlguides2012 name="Girl Guides 2012" %}
+{ include gallery.md theGallery = site.data.new_forest_got_talent name="New Forest's Got Talent" %}
+{ include gallery.md theGallery = site.data.olympic_torch_event name="Southampton Olympic Torch Event" %}
+{ include gallery.md theGallery = site.data.west_quay_20120609 name="West Quay" %}
+-->

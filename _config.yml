@@ -1,4 +1,5 @@
 name : "dance power 2014"
+    
 description : ""
 
 url : "http://dancepower.org"
@@ -13,3 +14,4 @@ permalink : /blog/:categories/:year/:month/:day/:title
 pygments : true
 
 blog_structure : "/blog/"
+
