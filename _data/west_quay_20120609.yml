@@ -1,3 +1,7 @@
+- path : /img/galleries/west_quay_20120609/.DS_Store
+  thumb : /img/galleries/west_quay_20120609/thumbs/.DS_Store
+  alt : '.DS_Store'
+
 - path : /img/galleries/west_quay_20120609/img_1970.jpg
   thumb : /img/galleries/west_quay_20120609/thumbs/img_1970.jpg
   alt : 'img_1970.jpg'

@@ -1,3 +1,7 @@
+- path : /img/galleries/gallery/.DS_Store
+  thumb : /img/galleries/gallery/thumbs/.DS_Store
+  alt : '.DS_Store'
+
 - path : /img/galleries/gallery/adizone_poster.jpg
   thumb : /img/galleries/gallery/thumbs/adizone_poster.jpg
   alt : 'adizone_poster.jpg'

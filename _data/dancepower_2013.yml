@@ -1,3 +1,7 @@
+- path : /img/galleries/dancepower_2013/.DS_Store
+  thumb : /img/galleries/dancepower_2013/thumbs/.DS_Store
+  alt : '.DS_Store'
+
 - path : /img/galleries/dancepower_2013/dance_power_012.jpg
   thumb : /img/galleries/dancepower_2013/thumbs/dance_power_012.jpg
   alt : 'dance_power_012.jpg'

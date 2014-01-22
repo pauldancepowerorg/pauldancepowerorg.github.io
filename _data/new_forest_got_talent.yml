@@ -1,3 +1,7 @@
+- path : /img/galleries/new_forest_got_talent/.DS_Store
+  thumb : /img/galleries/new_forest_got_talent/thumbs/.DS_Store
+  alt : '.DS_Store'
+
 - path : /img/galleries/new_forest_got_talent/106.jpg
   thumb : /img/galleries/new_forest_got_talent/thumbs/106.jpg
   alt : '106.jpg'
