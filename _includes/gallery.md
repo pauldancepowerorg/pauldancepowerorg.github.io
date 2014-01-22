@@ -1,4 +1,6 @@
+{% if include.name %}
 <h2>{{include.name}}</h2>
+{% endif %}
 
 <ul class="list-gallery">
 	{% for item in {{include.theGallery}} %}
