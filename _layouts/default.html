@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head profile="http://www.w3.org/2005/10/profile">
     <title>Home</title>
     <meta charset="utf-8">
     <meta name = "format-detection" content = "telephone=no" />
 	<meta name="robots" content="noindex, nofollow"/>
-	<meta name="googlebot" content="noindex, nofollow">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+	<meta name="googlebot" content="noindex, nofollow"/>
+	<meta name="google-site-verification" content="K_sKCaihuhKF927aMyjjjMBUQVdKO_Pq5QEjdpC3mlA"/>
+	<meta name="description" content="Jade Millington's Dance Power - Home of Streetjam, Southampton's No.1 Street Dance Crew and Group, and Dance Classes in Southampton.  Our patron is Lawrie McMenemy."/>
+	<meta name="keywords" content="Jade Millington, Lawrie McMenemy,street jam, Southampton, dance class, dance classes, dance power, southampton dance group, street dance southampton, street dance in southampton">
+	<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
     <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/superfish.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/camera.css"> 
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.fancybox.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/superfish.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/camera.css"/> 
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.fancybox.css"/>
     <script type="text/javascript" src="/js/jquery.js"></script>
     <script type="text/javascript" src="/js/superfish.js"></script>
 	<script type="text/javascript" src="/js/jquery.responsivemenu.js"></script>
@@ -64,15 +68,7 @@
 	    			<h1><a href="/"><img src="/images/logo.png" alt=""></a><span>Dance Studio</span></h1>
 	    			<nav>
 		
-						<ul class="sf-menu">
-							<li><a href="/">home</a></li>
-							<li><a href="/gallery">gallery</a></li>
-							<li><a href="/classes">classes</a></li>
-							<li><a href="/about-us">about us</a></li>
-							<li><a href="/blog">blog</a></li>
-							<li><a href="/videos">videos</a></li>
-							<li><a href="#more">more links</a></li>
-						</ul>
+						{% include main_nav.html %}
 
 	    			 <div class="clear"></div>
 	    			</nav>
