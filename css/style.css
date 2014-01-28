@@ -13,8 +13,8 @@ html {width:100%}
 body {
 	font-family: Arial, Helvetica, sans-serif; 
 	font-size:12px; 
-	line-height:20px; 
-	color:#6f6f6f; 
+	line-height:1.75em; 
+	color:#969696; 
 	background: url(../images/bg-body-repx.jpg) 0 0 repeat #1a1a1a;
 	-webkit-text-size-adjust: none;
 	}
@@ -23,7 +23,7 @@ body {
 	width: 100%;
 	height: auto;
 	min-height: 100%;
-	background: url(../images/bg-body.jpg) center 0 no-repeat;
+	/*background: url(../images/bg-body.jpg) center 0 no-repeat;*/
 	padding: 48px 0 0 0;
 }
 .main-1{

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head profile="http://www.w3.org/2005/10/profile">
-    <title>Home</title>
+    <title>{{page.title}}</title>
     <meta charset="utf-8">
     <meta name = "format-detection" content = "telephone=no" />
 	<meta name="robots" content="noindex, nofollow"/>
@@ -79,7 +79,21 @@
 	    </div>
 	</header>
 			<!--==============================content================================-->
-	<div class="slider">	
+	
+	<div class="container_24">
+		<section id="content">	
+				<div class="wrapper">
+					<div>
+			    		<a class="various fancybox.iframe" href="http://www.youtube.com/embed/nizQZrvC-VI?feature?rel=0"><strong></strong><img src="http://img.youtube.com/vi/nizQZrvC-VI/maxresdefault.jpg" alt=""></a>
+		       		</div>										
+				</div>
+		</section>
+	</div>
+<!--
+	<div class="slider">
+		<div class="camera_wrap">
+			<iframe width="1010" height="629" src="//www.youtube.com/embed/nizQZrvC-VI?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+		</div>	
 	    <div class="camera_wrap">	                   
 	       <div data-src="/images/slide-1.png">
 	       		<div class="camera-caption fadeIn">
@@ -134,11 +148,14 @@ odio. Morbi nunc odio, gravida at, cursus nec.</p>
 			</div>
 		</div>
 	</div>		
+-->
+
+
 	<div class="container_24">
 		<section id="content">
 		    <div class="wrapper">
 			    <article class="grid_8">
-					{{ content }}
+					{% include welcome-to-our-site.html %}
 			    </article>
 			    <article class="grid_9">
 			       <h2 class="indneth2">Featured <span>news</span></h2>
@@ -227,6 +244,7 @@ events and news.</span>
 		</div>
 	</aside>
 		<!--==============================footer=================================-->
+		<a name="footer"></a>
 	<footer>
 	   <div class="container_24">
 	        <div class="wrapper">
