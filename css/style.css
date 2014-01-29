@@ -1,5 +1,7 @@
-
-
+/* 
+#D0D725 : lime
+#992499 : purple
+*/
 
 @import url(http://fonts.googleapis.com/css?family=Playball);/*font-family: 'Playball', cursive;*/
 @import url(http://fonts.googleapis.com/css?family=Anton);/*font-family: 'Anton', sans-serif;*/
@@ -465,7 +467,9 @@ display: inline-block;
 	bottom:0;
 	right:0;
 	z-index:2;
-	background:url(../images/video-arrov.png) center center no-repeat;
+	background:url(../images/tool_yt-play-button.png) center center no-repeat;
+	background-size:100px 100px;
+	/*background:url(../images/video-arrov.png) center center no-repeat;*/
 	}
 
 
