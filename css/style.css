@@ -86,7 +86,7 @@ h2 span{
 	font-family: 'Playball', cursive;
 	font-size: 30px;
 	line-height: 40px;
-	color: #40aad8;
+	color: #992499;
 	display: inline-block;
 	padding: 4px 0 0 0;
 }
@@ -135,7 +135,7 @@ a:hover{
 	display:inline-block; 
 	margin: 0 0 0 0; 
 	padding: 8px 15px 1px;
-	background: #47b9eb;
+	background: #992499;
 	color: #fff; 
 	text-transform: uppercase;
 	font-size: 20px;
@@ -185,7 +185,7 @@ header {
 	max-width: 1010px;
 }
 .inner-head{
-	background: #47b9eb;
+	background: #992499;
 	padding: 9px 0 0 0;
 }
 .inner-after{
