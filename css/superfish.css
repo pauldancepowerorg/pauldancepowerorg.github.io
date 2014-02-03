@@ -10,7 +10,7 @@ nav{
 	float:left;
 	position:relative;
 	font-family: 'BenchNine', sans-serif;
-	background: url(../images/bg-li.jpg) 0 5px no-repeat;
+	/*background: url(../images/bg-li.jpg) 0 5px no-repeat;*/
 	font-weight:bold;
 	text-transform:uppercase;
 	margin: 0 0 0 18px;
