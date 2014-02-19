@@ -24,7 +24,7 @@ module Jekyll
       File.open("_data/" + directory + ".yml", 'w') {|f| 
 
         Dir.foreach(working_dir) do |item|
-          next if item == '.' or item == '..' or item == 'thumbs'
+          next if item == '.' or item == '..' or item == 'thumbs' or item == '_DS_Store'
           #puts item
             
           f.write("- path : /img/galleries/" + directory + "/" + item)
